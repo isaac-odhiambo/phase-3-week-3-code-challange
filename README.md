@@ -1,4 +1,5 @@
 # phase-3-week-3-code-challange
+This app models a Concert domain using Python with SQLAlchemy, allowing us to manage relationships between Bands, Venues, and Concerts. The key functionality of the app includes creating and managing these relationships, querying data, and performing aggregate functions.
 # Models and Relationships:
 # Band:
 
